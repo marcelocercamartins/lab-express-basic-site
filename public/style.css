@@ -11,7 +11,7 @@ body {
 #title {
     text-align: center;
     color: black;
-    font-size: 75px;
+    font-size: 65px;
     font-family: 'Brush Script MT', cursive;
   }
 
@@ -67,9 +67,7 @@ body {
     width: 300px;
     height: 275px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 100px;
+    margin: 30px auto auto auto;
   }
   
 #byparagraph {
@@ -82,12 +80,12 @@ body {
 
 #mashaInfo{
   font-family: 'Brush Script MT', cursive;
-  font-size: 50px;
+  font-size: 40px;
 }
 
-#mashaIntro {
+#mashaIntro, #mashaWorks {
   font-family: 'Brush Script MT', cursive;
-  font-size: 20px;
+  font-size: 17px;
 
 }
 
@@ -106,8 +104,8 @@ body {
   }
 
 #babyMasha, #mashaVicky, #mashaGordo, #mashaBox,#mashaBox1,#mashaPlants,#mashaPool, #mashaWater,#mashaTable,#mashaSis,#mashaSit,#mashaSleeping {
-    width: 475px;
-    height: 475px;
+    width: 25%;
+    height: 400px;
   }
 
 body a {
@@ -119,6 +117,4 @@ body a {
   #mashaWorks {
     text-align: inline;
     color: black;
-    font-size: 30px;
-    font-family: 'Brush Script MT', cursive;
   }
